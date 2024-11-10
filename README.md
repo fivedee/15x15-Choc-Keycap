@@ -10,7 +10,7 @@ You can print this on any FDM printer with a 0.4 (or smaller) nozzle, with the l
 - Oriented on one of the outer edges of the keycap
 - Brim and supports are enabled
 ## Inspirations
-I was heavily inspired by the "wrk." keycaps, designed and sold by [WORK LOUDER](https://worklouder.cc/shop/wrk-blind/). In addition, @koozie's (Please let me know if you have a GitHub!) [Choc Louder](https://www.printables.com/model/1066117-choc-louder-keycaps-choc-and-mx-spacing) keycaps showed to me that a keycap in that style can be FDM printed sucessfully.
+I was heavily inspired by the "wrk." keycaps, designed and sold by [WORK LOUDER](https://worklouder.cc/shop/wrk-blind/). In addition, @koozie's (Please let me know if you have a GitHub!) [Choc Louder](https://www.printables.com/model/1066117-choc-louder-keycaps-choc-and-mx-spacing) keycaps showed to me that a keycap in that style can be FDM printed successfully.
 ## More Pictures
 ![irl](https://raw.githubusercontent.com/fivedee/15x15-Choc-Keycap/refs/heads/main/images/irl.jpg)
 ![cad2](https://raw.githubusercontent.com/fivedee/15x15-Choc-Keycap/refs/heads/main/images/cad2.png)
